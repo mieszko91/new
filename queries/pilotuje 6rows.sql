@@ -3,22 +3,22 @@ INSERT INTO [dbo].[pilotuje]
            ,[Rezerwacja_Rezerwacja_ID])
      VALUES
            (4,
-           1),
+           5),
 		   
            (5,
-           2),
+           6),
 		   
            (5,
-           1),
+           5),
 		   
            (5,
-           3),
+           7),
 		   
            (4,
-           4),
+           7),
 		   
            (6,
-           1)
+           5)
 
 
 
