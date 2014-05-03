@@ -54,7 +54,7 @@
             this.buttonReturn.Name = "buttonReturn";
             this.buttonReturn.Size = new System.Drawing.Size(111, 23);
             this.buttonReturn.TabIndex = 3;
-            this.buttonReturn.Text = "Return";
+            this.buttonReturn.Text = "Wróć";
             this.buttonReturn.UseVisualStyleBackColor = true;
             this.buttonReturn.Click += new System.EventHandler(this.ActionReturn);
             // 
